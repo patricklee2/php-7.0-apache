@@ -1,4 +1,4 @@
-FROM oryxprod/php-7.0:20190411.2
+FROM oryxprod/php-7.0:20190422.4 
 LABEL maintainer="Azure App Services Container Images <appsvc-images@microsoft.com>"
 
 ENV PHP_VERSION 7.0
